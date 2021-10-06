@@ -1,12 +1,12 @@
-# liste des références d'architectures Resources
+# Liste des références d'architectures Resources
 
-Clean Code :
+## Clean Code
 
 https://leandeep.com/clean-architecture/
 
 https://blog.octo.com/application-domain-infrastructure-des-mots-de-la-layered-hexagonal-clean-architecture/
 
-Architecture Hexagonale :
+## Architecture Hexagonale
 
 https://youtu.be/MNXcuIGmYQw
 
