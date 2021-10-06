@@ -1,6 +1,6 @@
-# listes des références sur le Design
+# Listes des références sur le Design
 
-SVG:
+## SVG
 
 https://app.haikei.app/ ==> Création de SVG paramétrique
 
@@ -8,19 +8,19 @@ https://www.svgator.com/ ==> Outil pour l'animation de SVG comme un éditeur vid
 
 https://rive.app/ ==> Altenative à svgator
 
-OpenSource:
+## OpenSource
 
 https://undraw.co/ ==> Illustration OpenSource
 
-Font :
+## Font
 
 https://fontjoy.com/ ==> Génération Font Google
 
-Illustrator :
+## Illustrator
 
 http://www.noshade.net/tutoriel-illustrator-75-la-3d-sous-illustrator.php ==> tuto sur la 3D illustrator, date de  2008
 
-Alternative Adobe : 
+## Alternative Adobe
 
 https://affinity.serif.com/fr/
 
@@ -28,11 +28,11 @@ https://www.photopea.com/
 
 https://www.canva.com/
 
-Color :
+## Color
 
 https://maketintsandshades.com/ ==>  états des couleurs de votre site / apps 
 
-Divers :
+## Divers
 
 https://flatuicolors.com/ ==> pour avoir de vraies couleurs en flat design)
 
